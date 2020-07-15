@@ -1,6 +1,6 @@
 ### Hi there :wave: I'm Quentin Machard
 
-> **Éternel touche-à-tout, j'aime apprendre, proposer et réussir de nouveaux challenges.**
+> **Eternal jack-of-all-trades, I like to learn, teach, propose and succeed in new challenges.**
 
 #### I'm a Fullstack Web Developer
 
