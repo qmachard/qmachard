@@ -5,8 +5,8 @@
 #### I'm a Fullstack Web Developer
 
 - 👨‍💻 I'm an expert in front-end development with accessibility principles, responsive design and user experience.
-- 🔭 I’m currently working on **ReactJS**, **VueJS** and **Symfony 5**
-- 🌱 I’m currently learning **JAMStack with GatsbyJS**
+- 🔭 I’m currently working on **ReactJS**, **Fastify**, **Next.js**, **Firebase** and **Symfony 5**
+- 🌱 I’m currently learning **Swift UI**
 
 #### I like
 
