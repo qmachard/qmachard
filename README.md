@@ -10,7 +10,8 @@
 
 #### I like
 
-- 🏠 Remote Work: since 2020
+- 🧑‍💻 Coding since 2008
+- 🏠 Remote Work since 2020
 - 🤔 People with attention to detail
 - 💡 Interesting projects: I love learn and I love teach to each others
 
