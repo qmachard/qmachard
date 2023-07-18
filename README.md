@@ -23,6 +23,7 @@
 ### Statistics
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=qmachard&show_icons=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=qmachard&layout=compact&langs_count=8)
 
 ### My Projects
