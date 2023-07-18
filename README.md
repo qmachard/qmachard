@@ -15,16 +15,21 @@
 - 🤔 People with attention to detail
 - 💡 Interesting projects: I love learn and I love teach to each others
 
-#### Statistics
+#### I actually works on
+
+- ⚛️ React + Typescript
+- 📱 React Native + Typescript
+
+### Statistics
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmachard&langs_count=6&layout=compact&theme=dracula"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=qmachard&show_icons=true&count_private=true&theme=dracula"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=qmachard&layout=compact"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=qmachard&show_icons=true&count_private=true"></td>
   </tr>
 </table>
 
-### Projects
+### My Projects
 
 - 🎒 [CheckPack](https://www.checkpack.fr) : Voyagez l'esprit libre, partez sans rien oublier !
 - 🕰️ [DearFutu.re](https://dearfutu.re) : (Re)découvre demain, tes souvenirs d’aujourd’hui !
